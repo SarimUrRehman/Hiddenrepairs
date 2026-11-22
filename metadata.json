@@ -1,0 +1,6 @@
+{
+  "name": "Hidden Detail — Auto Detailing",
+  "description": "Premium auto detailing and full body wash in Bellevue, WA. 5.0 Google rated local detailers open daily 9 AM – 8 PM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

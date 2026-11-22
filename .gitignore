@@ -1,0 +1,10 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+# Exclude large uploaded media (67.5 MB MP4) that can cause GitHub push payload errors
+public/assets/aistudio/
